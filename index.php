@@ -24,8 +24,8 @@
         <p><?php echo $citation; ?></p>
     </blockquote>
     <section>
-        <p><strong style:"color:#000">Citation</strong> : <?= $texteCitation ?></p>
-        <p><strong> Auteur</strong> : <?= $auteurCitation ?></p>
+        <p><strong style="color: rgb(253, 87, 87)">Citation</strong> : <?= $texteCitation ?></p>
+        <p><strong style="color:rgb(253, 87, 87)"> Auteur</strong> : <?= $auteurCitation ?></p>
     </section>
 </body>
 </html>
